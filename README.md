@@ -3,7 +3,7 @@
 [Shellcode Generation Aggressor Script](https://github.com/RCStep/CSSG)
 
 ## What it Does:
-XOR's the .RAW or .BIN with a key
+XOR's the .RAW or .BIN with a key   
 Formats Output for C++  
 
 ## Recommondation - Pipe Output Into File (Large Output)      
